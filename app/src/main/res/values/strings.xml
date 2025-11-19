@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DiarioDeBordo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="di_rio">Diário</string>
+    <string name="mapa">Mapa</string>
+    <string name="galeria">Galeria</string>
+    <string name="meu_di_rio_de_viagens">Meu Diário de Viagens</string>
+    <string name="suas_ltimas_aventuras">Suas últimas aventuras:</string>
+    <string name="viagem_para_paris_ver_detalhes">Viagem para Paris (Ver Detalhes)</string>
+    <string name="carregando">Carregando...</string>
+</resources>
