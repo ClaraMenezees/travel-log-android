@@ -34,7 +34,7 @@ O projeto foi construído focando nas práticas modernas de desenvolvimento Andr
 ### Passos
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/SEU-USUARIO/travel-log-android.git](https://github.com/SEU-USUARIO/travel-log-android.git)
+    git clone [(https://github.com/ClaraMenezees/travel-log-android.git)]
     ```
 2.  Abra o projeto no **Android Studio**.
 3.  Aguarde a sincronização do Gradle (Sync).
