@@ -25,13 +25,6 @@ O projeto foi construído focando nas práticas modernas de desenvolvimento Andr
     * **NavigationUI:** Vinculação automática do `BottomNavigationView` com o grafo de navegação.
     * **SafeArgs Plugin:** Para passagem de argumentos (dados) entre telas com segurança de tipo.
 
-## 📸 Screenshots
-
-<div style="display: flex; flex-direction: row;">
-    <img src="path/to/screenshot_home.png" width="200" alt="Tela Home">
-    <img src="path/to/screenshot_detail.png" width="200" alt="Tela de Detalhes">
-</div>
-
 ## 🚀 Como rodar o projeto
 
 ### Pré-requisitos
